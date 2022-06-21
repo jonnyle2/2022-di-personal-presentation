@@ -37,7 +37,7 @@ DevOps Engineer
 </div>
 
 ---
-# **Motivation, Opporunities, Challenges**
+# **Motivation, Opportunities, Challenges**
 <hr/>
 
 * Problem-solving
